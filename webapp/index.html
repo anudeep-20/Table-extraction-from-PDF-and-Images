@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en" class="<meta name="viewport" content="width=device-width">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Table Extraction</title>
+  
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+
+  <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/cropper/2.3.4/cropper.min.css'>
+
+      <link rel="stylesheet" href="css/style.css">
+
+  
+</head>
+
+<body>
+
+  <main class="page">
+	<h2>Image Extraction</h2>
+	<!-- input file -->
+	<div class="box">
+		<input type="file" id="file-input">
+	</div>
+	<!-- leftbox -->
+	<div class="box-2">
+		<div class="result"></div>
+	</div>
+	<!--rightbox-->
+	<div class="box-2 img-result hide">
+		<!-- result of crop -->
+		<img class="cropped" src="" alt="">
+	</div>
+	<!-- input file -->
+	<div class="box">
+		<div class="options hide">
+			<label> Width</label>
+			<input type="number" class="img-w" value="1000" min="100" max="1200" />
+		</div>
+		<!-- save btn -->
+		<button class="btn save hide">Save</button>
+		<!-- download btn -->
+		<a href="" class="btn download hide">Download</a>
+	</div>
+</main>
+<div style="text-align: center;">
+<a href="http://localhost:80/image" class="btn">Run</a>
+	<p>Click run to process all PDFs in  ImageModule/data Folder</p>
+</div>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/cropperjs/0.8.1/cropper.min.js'></script>
+
+  
+
+    <script  src="js/index.js"></script>
+
+
+
+
+</body>
+
+</html>

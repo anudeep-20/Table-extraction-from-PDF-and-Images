@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.62.0">
+<page number="1" position="absolute" top="0" left="0" height="893" width="1262">
+	<fontspec id="0" size="10" family="Times" color="#000000"/>
+	<fontspec id="1" size="5" family="Times" color="#000000"/>
+	<fontspec id="2" size="-1" family="Times" color="#000000"/>
+	<fontspec id="3" size="1" family="Times" color="#000000"/>
+	<fontspec id="4" size="67" family="Times" color="#000000"/>
+	<fontspec id="5" size="4" family="Times" color="#000000"/>
+	<fontspec id="6" size="23" family="Times" color="#000000"/>
+	<fontspec id="7" size="26" family="Times" color="#000000"/>
+	<fontspec id="8" size="25" family="Times" color="#000000"/>
+	<fontspec id="9" size="8" family="Times" color="#000000"/>
+	<fontspec id="10" size="185" family="Times" color="#000000"/>
+	<fontspec id="11" size="80" family="Times" color="#000000"/>
+	<fontspec id="12" size="11" family="Times" color="#000000"/>
+<image top="0" left="0" width="1263" height="893" src="./ImageModule/data/28-1_1.jpg"/>
+<text top="308" left="66" width="81" height="12" font="0">Employee No.:</text>
+<text top="330" left="66" width="35" height="12" font="0">Name:</text>
+<text top="886" left="63" width="66" height="8" font="1"> </text>
+<text top="350" left="67" width="87" height="12" font="0">Date of Joining:</text>
+<text top="346" left="130" width="31" height="2" font="2"> </text>
+<text top="338" left="161" width="37" height="8" font="1">ey</text>
+<text top="367" left="63" width="143" height="3" font="3"> </text>
+<text top="371" left="67" width="67" height="12" font="0">Bank Name:</text>
+<text top="363" left="192" width="10" height="8" font="1">~</text>
+<text top="388" left="63" width="144" height="3" font="3"> </text>
+<text top="391" left="67" width="80" height="12" font="0">Bank Acc. No.</text>
+<text top="408" left="63" width="144" height="3" font="3"> </text>
+<text top="429" left="64" width="144" height="3" font="3"> </text>
+<text top="450" left="64" width="145" height="3" font="3"> </text>
+<text top="470" left="64" width="140" height="3" font="3"> </text>
+<text top="421" left="199" width="8" height="69" font="4"> </text>
+<text top="491" left="64" width="148" height="3" font="3"> </text>
+<text top="224" left="566" width="68" height="6" font="5">-«tATLALLE INaae</text>
+<text top="264" left="345" width="200" height="12" font="0">Payslip for the month of May 2017</text>
+<text top="868" left="252" width="574" height="26" font="6"> </text>
+<text top="292" left="252" width="574" height="26" font="6">   </text>
+<text top="868" left="512" width="315" height="26" font="6"> </text>
+<text top="316" left="514" width="313" height="26" font="6">  </text>
+<text top="357" left="297" width="151" height="26" font="6"> </text>
+<text top="357" left="508" width="320" height="26" font="6"> </text>
+<text top="375" left="307" width="141" height="26" font="6"> </text>
+<text top="375" left="500" width="328" height="26" font="6"> </text>
+<text top="393" left="307" width="142" height="29" font="7"> </text>
+<text top="393" left="525" width="302" height="29" font="7"> </text>
+<text top="868" left="333" width="117" height="26" font="6"> </text>
+<text top="438" left="286" width="164" height="26" font="6"> </text>
+<text top="438" left="565" width="264" height="26" font="6"> </text>
+<text top="868" left="286" width="543" height="26" font="6"> </text>
+<text top="300" left="448" width="50" height="12" font="0">Location:</text>
+<text top="312" left="252" width="196" height="29" font="7">  </text>
+<text top="334" left="316" width="132" height="29" font="7">  </text>
+<text top="321" left="448" width="67" height="12" font="0">Department:</text>
+<text top="342" left="448" width="68" height="12" font="0">Designation:</text>
+<text top="362" left="448" width="63" height="12" font="0">Total Days:</text>
+<text top="384" left="449" width="28" height="12" font="0">LOP:</text>
+<text top="416" left="512" width="317" height="27" font="8">  </text>
+<text top="503" left="65" width="763" height="12" font="0"> </text>
+<text top="525" left="65" width="763" height="12" font="0"> </text>
+<text top="649" left="67" width="764" height="11" font="9"> </text>
+<text top="492" left="58" width="15" height="188" font="10"> </text>
+<text top="413" left="68" width="41" height="12" font="0">PF No.:</text>
+<text top="405" left="449" width="80" height="12" font="0">LOPReversal:</text>
+<text top="434" left="68" width="46" height="12" font="0">ESI No.:</text>
+<text top="425" left="450" width="65" height="12" font="0">Work Days:</text>
+<text top="454" left="68" width="53" height="12" font="0">PAN No.:</text>
+<text top="446" left="450" width="118" height="12" font="0">Effective Work Days:</text>
+<text top="474" left="68" width="81" height="12" font="0">UAN Number:</text>
+<text top="516" left="69" width="52" height="12" font="0">Earnings</text>
+<text top="508" left="427" width="88" height="12" font="0">Rs.| Deductions</text>
+<text top="500" left="808" width="17" height="12" font="0">Rs.</text>
+<text top="539" left="72" width="30" height="12" font="0">Basic</text>
+<text top="532" left="412" width="56" height="12" font="0">14163] PF</text>
+<text top="523" left="798" width="25" height="12" font="0">1700</text>
+<text top="559" left="72" width="28" height="12" font="0">HRA</text>
+<text top="551" left="418" width="24" height="12" font="0">7081</text>
+<text top="294" left="11799" width="495" height="12" font="0">|</text>
+<text top="551" left="454" width="85" height="12" font="0">INCOME TAX</text>
+<text top="543" left="799" width="24" height="12" font="0">1077</text>
+<text top="579" left="72" width="73" height="12" font="0">Special Alow</text>
+<text top="571" left="418" width="26" height="12" font="0">3982</text>
+<text top="313" left="11799" width="496" height="12" font="0">|</text>
+<text top="570" left="454" width="15" height="12" font="0">PT</text>
+<text top="563" left="805" width="19" height="12" font="0">200</text>
+<text top="599" left="73" width="89" height="12" font="0">Shift Allowance</text>
+<text top="591" left="418" width="27" height="12" font="0">2500</text>
+<text top="619" left="73" width="50" height="12" font="0">Incentive</text>
+<text top="611" left="413" width="30" height="12" font="0">14131</text>
+<text top="639" left="73" width="88" height="12" font="0">Statutory Bonus</text>
+<text top="631" left="400" width="71" height="12" font="0">_—40eT</text>
+<text top="661" left="71" width="87" height="12" font="0">Total Earnings</text>
+<text top="654" left="396" width="6" height="12" font="0">(</text>
+<text top="653" left="414" width="138" height="12" font="0">43257 Tefal Deductions</text>
+<text top="645" left="802" width="26" height="12" font="0">2977</text>
+<text top="588" left="446" width="7" height="83" font="11"> </text>
+<text top="580" left="826" width="9" height="83" font="11"> </text>
+<text top="671" left="68" width="764" height="11" font="9"> </text>
+<text top="669" left="402" width="69" height="14" font="12">4</text>
+<text top="692" left="73" width="52" height="12" font="0">Net Pay:</text>
+<text top="690" left="163" width="44" height="12" font="0">40280 —</text>
+<text top="689" left="236" width="258" height="12" font="0">(Rupees Forty Thousand Two Hundred Eighty)</text>
+<text top="867" left="338" width="113" height="27" font="8"> </text>
+</page>
+</pdf2xml>

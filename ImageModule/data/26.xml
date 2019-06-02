@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.62.0">
+<page number="1" position="absolute" top="0" left="0" height="1262" width="893">
+	<fontspec id="0" size="235" family="Times" color="#000000"/>
+	<fontspec id="1" size="8" family="Times" color="#000000"/>
+	<fontspec id="2" size="7" family="Times" color="#000000"/>
+	<fontspec id="3" size="10" family="Times" color="#000000"/>
+	<fontspec id="4" size="13" family="Times" color="#000000"/>
+	<fontspec id="5" size="11" family="Times" color="#000000"/>
+	<fontspec id="6" size="68" family="Times" color="#000000"/>
+	<fontspec id="7" size="76" family="Times" color="#000000"/>
+	<fontspec id="8" size="238" family="Times" color="#000000"/>
+<image top="0" left="0" width="893" height="1263" src="./ImageModule/data/26-1_1.jpg"/>
+<text top="292" left="55" width="12" height="237" font="0"> </text>
+<text top="142" left="384" width="166" height="14" font="1">Payslip for the month of April 2017</text>
+<text top="156" left="63" width="760" height="11" font="1"> </text>
+<text top="352" left="59" width="761" height="11" font="1"> </text>
+<text top="469" left="56" width="763" height="11" font="1"> </text>
+<text top="155" left="69" width="68" height="10" font="2">Employee Code</text>
+<text top="166" left="446" width="41" height="9" font="2">Company</text>
+<text top="180" left="69" width="71" height="10" font="2">Employee Name</text>
+<text top="191" left="446" width="39" height="9" font="2">Category</text>
+<text top="193" left="69" width="36" height="11" font="1">Function</text>
+<text top="205" left="446" width="49" height="11" font="1">Bank Name</text>
+<text top="210" left="68" width="51" height="9" font="2">Department</text>
+<text top="221" left="445" width="48" height="9" font="2">CostCenter</text>
+<text top="223" left="68" width="95" height="12" font="1">Bank Account Number</text>
+<text top="234" left="445" width="35" height="11" font="1">Location</text>
+<text top="240" left="67" width="27" height="9" font="2">Grade</text>
+<text top="250" left="445" width="120" height="11" font="2">Permanent Account Number</text>
+<text top="255" left="67" width="50" height="9" font="2">Designation</text>
+<text top="266" left="445" width="85" height="10" font="2">PF Account Number</text>
+<text top="269" left="67" width="30" height="11" font="1">Branch</text>
+<text top="279" left="444" width="49" height="11" font="1">WBSCODE</text>
+<text top="284" left="67" width="13" height="11" font="1">PC</text>
+<text top="294" left="444" width="63" height="11" font="1">Date of Joining</text>
+<text top="300" left="66" width="57" height="10" font="2">Days Worked</text>
+<text top="311" left="444" width="20" height="9" font="2">LWP</text>
+<text top="315" left="66" width="92" height="11" font="2">Esic Account Number</text>
+<text top="326" left="443" width="55" height="10" font="2">Arrears Days</text>
+<text top="329" left="65" width="58" height="11" font="1">UAN Number</text>
+<text top="350" left="65" width="42" height="11" font="1">Earnings</text>
+<text top="353" left="145" width="63" height="12" font="1">Monthly Rate</text>
+<text top="355" left="246" width="37" height="11" font="1">Current</text>
+<text top="358" left="322" width="36" height="11" font="1">Arrears</text>
+<text top="360" left="410" width="24" height="11" font="1">Total</text>
+<text top="686" left="11800" width="619" height="11" font="1">|</text>
+<text top="361" left="446" width="54" height="11" font="1">Deductions</text>
+<text top="367" left="252" width="31" height="11" font="1">Month</text>
+<text top="372" left="445" width="51" height="11" font="1">Particulars</text>
+<text top="381" left="775" width="39" height="11" font="1">Amount</text>
+<text top="375" left="65" width="53" height="13" font="3">Basic Salary</text>
+<text top="378" left="174" width="33" height="12" font="3">9972.00</text>
+<text top="380" left="248" width="34" height="12" font="3">9972.00</text>
+<text top="383" left="340" width="18" height="12" font="3">0.00</text>
+<text top="384" left="400" width="34" height="12" font="3">9972.00</text>
+<text top="702" left="11800" width="619" height="12" font="3">|</text>
+<text top="386" left="445" width="75" height="14" font="3">MeDICLAIM DED</text>
+<text top="395" left="784" width="29" height="12" font="3">450.00</text>
+<text top="394" left="64" width="20" height="9" font="2">HRA</text>
+<text top="396" left="173" width="34" height="9" font="2">4986.00</text>
+<text top="399" left="248" width="34" height="9" font="2">4986.00</text>
+<text top="401" left="340" width="18" height="9" font="2">0.00</text>
+<text top="403" left="399" width="34" height="9" font="2">4986.00</text>
+<text top="404" left="445" width="93" height="10" font="2">INCENTIVE CONTRA</text>
+<text top="413" left="771" width="42" height="9" font="2">19,340.00</text>
+<text top="408" left="63" width="67" height="9" font="2">ROW”</text>
+<text top="411" left="174" width="33" height="9" font="2">1600.00</text>
+<text top="413" left="248" width="34" height="9" font="2">1600.00</text>
+<text top="416" left="340" width="18" height="9" font="2">0.00</text>
+<text top="417" left="400" width="33" height="9" font="2">1600.00</text>
+<text top="419" left="445" width="71" height="11" font="2">Professional Tax</text>
+<text top="428" left="784" width="29" height="9" font="2">200.00</text>
+<text top="426" left="63" width="20" height="15" font="4">CCA</text>
+<text top="429" left="168" width="38" height="15" font="4">14314,00</text>
+<text top="431" left="243" width="39" height="15" font="4">14314.00</text>
+<text top="434" left="332" width="26" height="15" font="4">. 0.00</text>
+<text top="436" left="394" width="39" height="15" font="4">14314.00</text>
+<text top="752" left="11800" width="619" height="15" font="4">|</text>
+<text top="437" left="444" width="64" height="16" font="4">Provident Fund</text>
+<text top="446" left="777" width="36" height="15" font="4">187-00</text>
+<text top="445" left="63" width="55" height="12" font="3">INCENTIVE1</text>
+<text top="448" left="189" width="18" height="12" font="3">0.00</text>
+<text top="450" left="242" width="39" height="12" font="3">19340.00</text>
+<text top="452" left="339" width="18" height="12" font="3">0.00</text>
+<text top="454" left="393" width="39" height="12" font="3">19340.00</text>
+<text top="771" left="11800" width="619" height="12" font="3">|</text>
+<text top="455" left="444" width="49" height="13" font="3">Income Tax</text>
+<text top="465" left="784" width="28" height="12" font="3">116.00</text>
+<text top="465" left="62" width="76" height="14" font="5">Gross Eamings</text>
+<text top="474" left="384" width="48" height="14" font="5">50,212.00</text>
+<text top="786" left="11801" width="618" height="14" font="5">|</text>
+<text top="476" left="443" width="82" height="14" font="5">Total Deductions</text>
+<text top="484" left="763" width="49" height="14" font="5">21,303.00</text>
+<text top="424" left="437" width="4" height="71" font="6"> </text>
+<text top="492" left="55" width="763" height="9" font="2"> </text>
+<text top="490" left="62" width="108" height="12" font="3">NetSalary : 28,909.00</text>
+<text top="511" left="62" width="394" height="22" font="3">In words : Twenty Eight Thousand Nine Hundred Nine Only (All AmountIsIn z)</text>
+<text top="537" left="55" width="762" height="9" font="2"> </text>
+<text top="611" left="487" width="120" height="78" font="7">oe</text>
+<text top="306" left="815" width="12" height="240" font="8"> </text>
+</page>
+</pdf2xml>

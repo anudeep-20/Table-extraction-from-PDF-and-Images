@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.62.0">
+<page number="1" position="absolute" top="0" left="0" height="1262" width="893">
+	<fontspec id="0" size="11" family="Times" color="#000000"/>
+	<fontspec id="1" size="4" family="Times" color="#000000"/>
+	<fontspec id="2" size="2" family="Times" color="#000000"/>
+	<fontspec id="3" size="13" family="Times" color="#000000"/>
+	<fontspec id="4" size="-1" family="Times" color="#000000"/>
+	<fontspec id="5" size="1" family="Times" color="#000000"/>
+	<fontspec id="6" size="20" family="Times" color="#000000"/>
+	<fontspec id="7" size="25" family="Times" color="#000000"/>
+	<fontspec id="8" size="167" family="Times" color="#000000"/>
+	<fontspec id="9" size="115" family="Times" color="#000000"/>
+	<fontspec id="10" size="10" family="Times" color="#000000"/>
+	<fontspec id="11" size="362" family="Times" color="#000000"/>
+	<fontspec id="12" size="14" family="Times" color="#000000"/>
+	<fontspec id="13" size="82" family="Times" color="#000000"/>
+	<fontspec id="14" size="124" family="Times" color="#000000"/>
+	<fontspec id="15" size="359" family="Times" color="#000000"/>
+<image top="0" left="0" width="893" height="1263" src="./ImageModule/data/29-1_1.jpg"/>
+<text top="141" left="769" width="18" height="14" font="0">143</text>
+<text top="156" left="55" width="737" height="6" font="1"> </text>
+<text top="255" left="54" width="735" height="5" font="2"> </text>
+<text top="253" left="258" width="335" height="18" font="3">PAYSLIP FOR THE MONTH OF FEBRUARY- 2017</text>
+<text top="273" left="54" width="735" height="5" font="2"> </text>
+<text top="290" left="54" width="738" height="5" font="2"> </text>
+<text top="342" left="54" width="150" height="2" font="4"> </text>
+<text top="310" left="337" width="194" height="2" font="4"> </text>
+<text top="327" left="293" width="240" height="2" font="4"> </text>
+<text top="345" left="297" width="236" height="2" font="4"> </text>
+<text top="361" left="54" width="480" height="3" font="5"> </text>
+<text top="357" left="201" width="1" height="23" font="6"> </text>
+<text top="355" left="531" width="2" height="27" font="7"> </text>
+<text top="379" left="53" width="736" height="5" font="2"> </text>
+<text top="396" left="53" width="736" height="5" font="2"> </text>
+<text top="414" left="53" width="739" height="5" font="2"> </text>
+<text top="611" left="52" width="737" height="3" font="5"> </text>
+<text top="461" left="427" width="3" height="170" font="8"> </text>
+<text top="513" left="324" width="3" height="117" font="9"> </text>
+<text top="461" left="431" width="3" height="170" font="8"> </text>
+<text top="515" left="668" width="3" height="117" font="9"> </text>
+<text top="629" left="52" width="740" height="3" font="5"> </text>
+<text top="645" left="52" width="377" height="3" font="5"> </text>
+<text top="663" left="52" width="377" height="3" font="5"> </text>
+<text top="718" left="57" width="101" height="12" font="10">Account Number:</text>
+<text top="513" left="51" width="9" height="365" font="11"> </text>
+<text top="771" left="57" width="366" height="14" font="0">Note : Computer generated Pay slips does notrequire signature.</text>
+<text top="288" left="59" width="95" height="14" font="0">Employee Name</text>
+<text top="290" left="201" width="1" height="14" font="0">|</text>
+<text top="292" left="435" width="68" height="14" font="0">Designation</text>
+<text top="294" left="598" width="4" height="14" font="0">-</text>
+<text top="306" left="59" width="108" height="14" font="0">Employee Number</text>
+<text top="310" left="435" width="66" height="14" font="0">Department</text>
+<text top="323" left="59" width="88" height="14" font="0">Date of Joining</text>
+<text top="328" left="435" width="39" height="14" font="0">PF No.</text>
+<text top="341" left="59" width="85" height="14" font="0">Days in Month</text>
+<text top="346" left="435" width="30" height="14" font="0">UAN</text>
+<text top="359" left="59" width="59" height="14" font="0">DaysPaid</text>
+<text top="363" left="435" width="51" height="14" font="0">ESIC No</text>
+<text top="396" left="167" width="49" height="14" font="0">Earnings</text>
+<text top="397" left="355" width="46" height="14" font="0">Amount</text>
+<text top="399" left="518" width="64" height="14" font="0">Deductions</text>
+<text top="400" left="709" width="44" height="14" font="0">Amount</text>
+<text top="432" left="58" width="31" height="12" font="10">Basic</text>
+<text top="435" left="371" width="49" height="12" font="10">8,634.00</text>
+<text top="436" left="435" width="91" height="12" font="10">}]/Food Deduction</text>
+<text top="439" left="765" width="3" height="12" font="10">=</text>
+<text top="448" left="58" width="132" height="14" font="0">House Rent Allowance</text>
+<text top="451" left="371" width="50" height="14" font="0">3,454.00</text>
+<text top="452" left="435" width="87" height="14" font="0">||Provident Fund</text>
+<text top="455" left="736" width="46" height="14" font="0">1,036.00</text>
+<text top="467" left="58" width="70" height="17" font="12">Conveyance</text>
+<text top="467" left="373" width="158" height="17" font="12">1,250.00 ||Professional Tax</text>
+<text top="467" left="745" width="38" height="17" font="12">200.00</text>
+<text top="485" left="58" width="112" height="12" font="10">Medical Allowance</text>
+<text top="488" left="373" width="48" height="12" font="10">1,600.00</text>
+<text top="489" left="435" width="68" height="12" font="10">|/Income Tax</text>
+<text top="492" left="765" width="3" height="12" font="10">=</text>
+<text top="502" left="58" width="175" height="15" font="0">City Compensatory Allowance</text>
+<text top="505" left="382" width="39" height="14" font="0">720.00</text>
+<text top="506" left="435" width="28" height="14" font="0">ESI</text>
+<text top="509" left="765" width="3" height="14" font="0">=</text>
+<text top="521" left="58" width="107" height="12" font="10">Special Allowance</text>
+<text top="524" left="365" width="55" height="12" font="10">12,623.00</text>
+<text top="631" left="11797" width="138" height="12" font="10">||</text>
+<text top="525" left="435" width="55" height="12" font="10">Advances</text>
+<text top="528" left="765" width="3" height="12" font="10">&gt;</text>
+<text top="539" left="58" width="97" height="12" font="10">Other Allowance</text>
+<text top="542" left="381" width="39" height="12" font="10">500.00</text>
+<text top="557" left="58" width="95" height="12" font="10">Reimbursements</text>
+<text top="560" left="402" width="3" height="12" font="10">-</text>
+<text top="608" left="149" width="81" height="15" font="3">Gross Earning</text>
+<text top="610" left="363" width="57" height="15" font="3">28,781.00</text>
+<text top="611" left="501" width="99" height="15" font="3">Total Deductions</text>
+<text top="613" left="736" width="47" height="15" font="3">1,236.00</text>
+<text top="643" left="155" width="70" height="17" font="12">Net Pay Out</text>
+<text top="643" left="323" width="2" height="17" font="12">|</text>
+<text top="643" left="363" width="66" height="17" font="12">27,545.00 |</text>
+<text top="682" left="57" width="72" height="12" font="10">Credited To:</text>
+<text top="700" left="57" width="112" height="12" font="10">Name of The Bank:</text>
+<text top="877" left="51" width="742" height="5" font="2"> </text>
+<text top="241" left="791" width="3" height="84" font="13"> </text>
+<text top="487" left="790" width="3" height="126" font="14"> </text>
+<text top="520" left="785" width="9" height="362" font="15"> </text>
+</page>
+</pdf2xml>

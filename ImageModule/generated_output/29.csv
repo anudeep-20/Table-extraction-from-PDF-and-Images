@@ -1,0 +1,30 @@
+col1,col2,col3,from_page
+PAYSLIP FOR THE MONTH OF FEBRUARY- 2017,,,1
+,,,1
+Employee Name |,Designation,-,1
+Employee Number,Department,,1
+Date of Joining,PF No.,,1
+Days in Month   UAN,,,1
+DaysPaid,ESIC No,,1
+,,,1
+Earnings Amount,Deductions,Amount,1
+,,,1
+"Basic 8,634.00",}]/Food Deduction,=,1
+"House Rent Allowance 3,454.00",||Provident Fund,"1,036.00",1
+Conveyance,"1,250.00 ||Professional Tax",200.00,1
+"Medical Allowance 1,600.00",|/Income Tax,=,1
+City Compensatory Allowance 720.00 ESI,,=,1
+"Special Allowance 12,623.00",Advances,>,1
+Other Allowance 500.00,,,1
+Reimbursements   -,,,1
+,,,1
+"Gross Earning 28,781.00",Total Deductions,"1,236.00",1
+,,,1
+"Net Pay Out | 27,545.00 |",,,1
+,,,1
+Credited To:,,,1
+Name of The Bank:,,,1
+Account Number:,,,1
+,,,1
+Note : Computer generated Pay slips does notrequire signature.,,,1
+,,,1

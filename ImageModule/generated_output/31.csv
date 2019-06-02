@@ -1,0 +1,34 @@
+col1,col2,col3,col4,col5,col6,from_page
+Emp ID,,,Employee Name:,,,1
+PF. No.,,ESI No.,,,,1
+PAY DAYS,,,,,,1
+,,DOJ,,,,1
+DESIGNATION,,,,,,1
+,,DEPARTMENT,,,,1
+HQ,,A/C No.,,,,1
+Mode of Pay,,,,,,1
+,,DOB,,,,1
+UAN,,,,,,1
+,,,,,,1
+Earnings,Gross Salary,Amount,,,,1
+,,,Deductions,,Amount,1
+BASIC,,"8,200.00 8,054.00",,,,1
+HRA,,"4,100.00",PF,,966.00,1
+,,"4,027.00",ESI,,554.00,1
+TRANSPORT ALL,,"2,050.00 2,013.00",PT,,,1
+EDUCATION ALL,,"2,050.00 2,013.00",Advance,,200.00,1
+MEDICAL ALL,,"2,050.00 2,013.00",,,"2,000.00",1
+,,"2,050.00",,,,1
+,,"2,013.00",,,,1
+PRODUCTION INC,,"7,100.00",,,,1
+OT1,,"4,393.00(24)",,,,1
+,,,,,,1
+Total,,"20,500.00",,,,1
+,,"31,626.00",Total,,"3,720.00",1
+Net Pay,,"27,906.00",,,,1
+,,,,,,1
+In Words,,,,,,1
+,,"teaveType| Op: Bat} “Altoted| Avaited=}-ehBat yo""""toantoriesf“Takerr-[Op: Rupees Twenty Seven Thousand Nine Hundred Six Only",,Signature,Bat} EMr/Ret: |Cl: Bar4 “ae,1
+Advance E Taken! 13,U0,Op. BSI|EMI/R&t| Cl. Bai,,,,1
+ADVANCE COP     20000 0,800! ot,05 200! 6     0 600,,,,1
+,,***This is a computer generated payslip - Need not require signature.,,Co A.,,1

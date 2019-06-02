@@ -1,0 +1,88 @@
+<pdf2xml producer="poppler" version="0.62.0">
+<page height="1262" left="0" number="1" position="absolute" top="0" width="893">
+	<fontspec color="#000000" family="Times" id="0" size="14" />
+	<fontspec color="#000000" family="Times" id="1" size="1" />
+	<fontspec color="#000000" family="Times" id="2" size="2" />
+	<fontspec color="#000000" family="Times" id="3" size="5" />
+	<fontspec color="#000000" family="Times" id="4" size="11" />
+	<fontspec color="#000000" family="Times" id="5" size="16" />
+	<fontspec color="#000000" family="Times" id="6" size="19" />
+	<fontspec color="#000000" family="Times" id="7" size="13" />
+	<fontspec color="#000000" family="Times" id="8" size="8" />
+	<fontspec color="#000000" family="Times" id="9" size="10" />
+	<fontspec color="#000000" family="Times" id="10" size="31" />
+<image height="1263" left="0" src="./ImageModule/data/27-1_1.jpg" top="0" width="893" />
+<text font="0" height="17" left="348" top="134" width="66">Pay Slip</text>
+<text font="0" height="17" left="339" top="150" width="83">for April-2017</text>
+<text font="1" height="3" left="57" top="213" width="204"> </text>
+<text font="2" height="5" left="39" top="328" width="350"> </text>
+<text font="3" height="8" left="39" top="376" width="575"> </text>
+<text font="2" height="5" left="54" top="510" width="336"> </text>
+<text font="4" height="14" left="44" top="214" width="106">Employee Number:</text>
+<text font="4" height="14" left="384" top="214" width="118">Income Tax Number (PAN):</text>
+<text font="4" height="14" left="44" top="230" width="53">Function</text>
+<text font="4" height="14" left="149" top="230" width="21">eo,</text>
+<text font="4" height="14" left="188" top="230" width="1">F</text>
+<text font="4" height="14" left="384" top="230" width="141">PF account number: . ...</text>
+<text font="4" height="14" left="45" top="246" width="74">Designation</text>
+<text font="4" height="14" left="149" top="246" width="1">;</text>
+<text font="4" height="14" left="384" top="246" width="77">ES] Number</text>
+<text font="4" height="14" left="490" top="246" width="1">:</text>
+<text font="4" height="14" left="45" top="263" width="53">Location</text>
+<text font="4" height="14" left="149" top="263" width="1">:</text>
+<text font="4" height="14" left="384" top="263" width="108">PR Account Number (PRAN) :</text>
+<text font="4" height="14" left="44" top="279" width="79">Bank Details</text>
+<text font="4" height="14" left="308" top="279" width="5">-</text>
+<text font="5" height="18" left="40" top="294" width="138">Date ofjoining :.</text>
+<text font="5" height="18" left="213" top="294" width="23">-</text>
+<text font="6" height="21" left="39" top="325" width="193">[AttendanceDetails = = ==</text>
+<text font="6" height="21" left="254" top="325" width="6">==</text>
+<text font="6" height="21" left="302" top="325" width="63">&#8212;&#8212;-Value</text>
+<text font="4" height="14" left="39" top="345" width="57">| Present</text>
+<text font="4" height="14" left="333" top="345" width="53">30 Days</text>
+<text font="6" height="21" left="39" top="374" width="422">&#8216;Earnings=, Amount _GrossSalary Deductions</text>
+<text font="6" height="21" left="550" top="370" width="166">~ Amount GrossSalary</text>
+<text font="7" height="15" left="39" top="395" width="39">Sasi</text>
+<text font="7" height="15" left="215" top="394" width="0">i</text>
+<text font="7" height="15" left="229" top="394" width="65">15,000.00'</text>
+<text font="7" height="15" left="314" top="393" width="165">15,000.00 EPF Deduction</text>
+<text font="7" height="15" left="578" top="391" width="54">4,800.00</text>
+<text font="7" height="15" left="664" top="390" width="53">1,800.00</text>
+<text font="7" height="15" left="39" top="412" width="84">|BASIC + DA</text>
+<text font="7" height="15" left="210" top="410" width="85">5,426.00,</text>
+<text font="7" height="15" left="322" top="410" width="80">5,426.00 PT</text>
+<text font="7" height="15" left="589" top="408" width="42">200.00</text>
+<text font="7" height="15" left="675" top="407" width="42">200.00</text>
+<text font="5" height="18" left="39" top="424" width="34">| HRA</text>
+<text font="5" height="18" left="210" top="424" width="85">8,170.00</text>
+<text font="5" height="18" left="322" top="424" width="54">8,170.00</text>
+<text font="0" height="17" left="38" top="442" width="84">| Conveyance</text>
+<text font="0" height="17" left="209" top="442" width="1">|</text>
+<text font="0" height="17" left="237" top="442" width="57">1,600.00'</text>
+<text font="0" height="17" left="322" top="442" width="54">1,600.00</text>
+<text font="7" height="15" left="44" top="460" width="117">Medical Allowance</text>
+<text font="7" height="15" left="209" top="460" width="1">|</text>
+<text font="7" height="15" left="237" top="460" width="57">1,250.00:</text>
+<text font="7" height="15" left="322" top="460" width="54">1,250.00</text>
+<text font="7" height="15" left="39" top="477" width="105">&#8216;Statutory Bonus</text>
+<text font="7" height="15" left="216" top="477" width="0">|</text>
+<text font="7" height="15" left="249" top="477" width="46">585.00:</text>
+<text font="7" height="15" left="333" top="477" width="42">585.00</text>
+<text font="7" height="15" left="39" top="493" width="105">Admini Charges</text>
+<text font="7" height="15" left="210" top="493" width="85">|2,012.00!</text>
+<text font="7" height="15" left="322" top="493" width="147">2,012.00,</text>
+<text font="5" height="18" left="38" top="510" width="461">&#8216;TotalEarnings34,043.00 34,043.00| Total Deductions</text>
+<text font="5" height="18" left="551" top="507" width="81">2,000.00</text>
+<text font="5" height="18" left="664" top="507" width="54">2,000.00</text>
+<text font="6" height="21" left="38" top="530" width="1">|</text>
+<text font="6" height="21" left="293" top="525" width="1">|</text>
+<text font="6" height="21" left="379" top="523" width="85">&#8216;Net Amount</text>
+<text font="6" height="21" left="550" top="520" width="177">% 32,043.00 &amp; 32,043.00 /</text>
+<text font="2" height="5" left="67" top="547" width="298"> </text>
+<text font="2" height="5" left="379" top="543" width="324"> </text>
+<text font="8" height="11" left="43" top="552" width="94">Amount (in words):</text>
+<text font="9" height="12" left="44" top="570" width="247">INR Thirty Two Thousand Forty Three Only</text>
+<text font="9" height="12" left="607" top="596" width="121">Authorised Signatory</text>
+<text font="10" height="33" left="545" top="644" width="117">0BM</text>
+</page>
+</pdf2xml>

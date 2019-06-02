@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.62.0">
+<page number="1" position="absolute" top="0" left="0" height="1262" width="893">
+	<fontspec id="0" size="11" family="Times" color="#000000"/>
+	<fontspec id="1" size="5" family="Times" color="#000000"/>
+	<fontspec id="2" size="127" family="Times" color="#000000"/>
+	<fontspec id="3" size="2" family="Times" color="#000000"/>
+	<fontspec id="4" size="10" family="Times" color="#000000"/>
+	<fontspec id="5" size="13" family="Times" color="#000000"/>
+	<fontspec id="6" size="161" family="Times" color="#000000"/>
+	<fontspec id="7" size="1" family="Times" color="#000000"/>
+	<fontspec id="8" size="16" family="Times" color="#000000"/>
+	<fontspec id="9" size="206" family="Times" color="#000000"/>
+	<fontspec id="10" size="22" family="Times" color="#000000"/>
+	<fontspec id="11" size="8" family="Times" color="#000000"/>
+	<fontspec id="12" size="44" family="Times" color="#000000"/>
+	<fontspec id="13" size="31" family="Times" color="#000000"/>
+	<fontspec id="14" size="25" family="Times" color="#000000"/>
+<image top="0" left="0" width="893" height="1263" src="./ImageModule/data/31-1_1.jpg"/>
+<text top="143" left="279" width="309" height="18" font="0">Pay Slip From 26/02/2017 to 25/03/2017</text>
+<text top="325" left="66" width="737" height="8" font="1"> </text>
+<text top="346" left="65" width="738" height="8" font="1"> </text>
+<text top="559" left="62" width="739" height="8" font="1"> </text>
+<text top="450" left="199" width="6" height="129" font="2"> </text>
+<text top="453" left="343" width="5" height="129" font="2"> </text>
+<text top="456" left="492" width="6" height="129" font="2">  </text>
+<text top="458" left="639" width="6" height="129" font="2"> </text>
+<text top="582" left="61" width="739" height="8" font="1"> </text>
+<text top="652" left="425" width="355" height="5" font="3"> </text>
+<text top="181" left="94" width="44" height="14" font="0">Emp ID</text>
+<text top="187" left="437" width="103" height="15" font="0">Employee Name:</text>
+<text top="200" left="94" width="42" height="13" font="4">PF. No.</text>
+<text top="207" left="437" width="44" height="13" font="4">ESI No.</text>
+<text top="218" left="94" width="59" height="13" font="4">PAY DAYS</text>
+<text top="226" left="437" width="22" height="12" font="4">DOJ</text>
+<text top="237" left="93" width="87" height="12" font="4">DESIGNATION</text>
+<text top="245" left="437" width="83" height="12" font="4">DEPARTMENT</text>
+<text top="255" left="93" width="17" height="15" font="5">HQ</text>
+<text top="261" left="436" width="46" height="15" font="5">A/C No.</text>
+<text top="275" left="93" width="73" height="13" font="4">Mode of Pay</text>
+<text top="283" left="436" width="26" height="12" font="4">DOB</text>
+<text top="294" left="92" width="24" height="12" font="4">UAN</text>
+<text top="321" left="104" width="58" height="12" font="4">Earnings</text>
+<text top="323" left="233" width="85" height="13" font="4">Gross Salary</text>
+<text top="326" left="393" width="54" height="12" font="4">Amount</text>
+<text top="329" left="539" width="75" height="12" font="4">Deductions</text>
+<text top="333" left="709" width="53" height="12" font="4">Amount</text>
+<text top="342" left="71" width="37" height="12" font="4">BASIC</text>
+<text top="346" left="271" width="54" height="12" font="4">8,200.00</text>
+<text top="348" left="415" width="54" height="12" font="4">8,054.00</text>
+<text top="351" left="531" width="13" height="12" font="4">PF</text>
+<text top="355" left="745" width="41" height="12" font="4">966.00</text>
+<text top="359" left="71" width="24" height="12" font="4">HRA</text>
+<text top="363" left="271" width="54" height="12" font="4">4,100.00</text>
+<text top="366" left="415" width="54" height="12" font="4">4,027.00</text>
+<text top="368" left="531" width="19" height="12" font="4">ESI</text>
+<text top="372" left="745" width="40" height="12" font="4">554.00</text>
+<text top="377" left="69" width="101" height="13" font="4">TRANSPORT ALL</text>
+<text top="381" left="271" width="53" height="12" font="4">2,050.00</text>
+<text top="383" left="415" width="54" height="12" font="4">2,013.00</text>
+<text top="385" left="531" width="14" height="12" font="4">PT</text>
+<text top="389" left="744" width="41" height="12" font="4">200.00</text>
+<text top="394" left="70" width="99" height="14" font="4">EDUCATION ALL</text>
+<text top="398" left="271" width="54" height="12" font="4">2,050.00</text>
+<text top="401" left="415" width="54" height="12" font="4">2,013.00</text>
+<text top="403" left="530" width="51" height="12" font="4">Advance</text>
+<text top="407" left="732" width="53" height="12" font="4">2,000.00</text>
+<text top="413" left="70" width="81" height="13" font="4">MEDICAL ALL</text>
+<text top="417" left="270" width="54" height="12" font="4">2,050.00</text>
+<text top="420" left="415" width="54" height="12" font="4">2,013.00</text>
+<text top="430" left="69" width="21" height="12" font="4">LTA</text>
+<text top="435" left="270" width="53" height="12" font="4">2,050.00</text>
+<text top="438" left="415" width="54" height="12" font="4">2,013.00</text>
+<text top="448" left="69" width="110" height="14" font="4">PRODUCTION INC</text>
+<text top="454" left="414" width="54" height="12" font="4">7,100.00</text>
+<text top="462" left="68" width="23" height="15" font="5">OT1</text>
+<text top="469" left="386" width="81" height="15" font="5">4,393.00(24)</text>
+<text top="556" left="66" width="34" height="12" font="4">Total</text>
+<text top="560" left="254" width="68" height="12" font="4">20,500.00</text>
+<text top="562" left="398" width="69" height="12" font="4">31,626.00</text>
+<text top="565" left="528" width="34" height="12" font="4">Total</text>
+<text top="568" left="725" width="59" height="12" font="4">3,720.00</text>
+<text top="575" left="67" width="52" height="14" font="0">Net Pay</text>
+<text top="580" left="253" width="68" height="14" font="0">27,906.00</text>
+<text top="596" left="66" width="63" height="12" font="4">In Words</text>
+<text top="598" left="167" width="383" height="19" font="4">Rupees Twenty Seven Thousand Nine Hundred Six Only</text>
+<text top="637" left="660" width="66" height="12" font="4">Signature</text>
+<text top="497" left="797" width="7" height="164" font="6"> </text>
+<text top="653" left="60" width="740" height="8" font="1"> </text>
+<text top="646" left="61" width="556" height="21" font="4">teaveType| Op: Bat} “Altoted| Avaited=}-ehBat yo&#34;&#34;toantoriesf“Takerr-[Op:</text>
+<text top="657" left="618" width="183" height="15" font="4">Bat} EMr/Ret: |Cl: Bar4 “ae</text>
+<text top="676" left="424" width="355" height="3" font="7"> </text>
+<text top="677" left="59" width="359" height="5" font="3"> </text>
+<text top="673" left="77" width="58" height="18" font="8">Advance</text>
+<text top="919" left="11799" width="460" height="18" font="8">||</text>
+<text top="675" left="166" width="40" height="18" font="8">Taken!</text>
+<text top="919" left="11799" width="460" height="18" font="8">|</text>
+<text top="676" left="226" width="115" height="19" font="8">Op. BSI|EMI/R&amp;t|</text>
+<text top="679" left="364" width="44" height="18" font="8">Cl. Bai</text>
+<text top="701" left="59" width="359" height="5" font="3"> </text>
+<text top="526" left="59" width="8" height="209" font="9"> </text>
+<text top="700" left="150" width="2" height="24" font="10"> </text>
+<text top="702" left="219" width="2" height="24" font="10"> </text>
+<text top="703" left="278" width="2" height="24" font="10"> </text>
+<text top="705" left="350" width="2" height="24" font="10"> </text>
+<text top="705" left="417" width="2" height="24" font="10"> </text>
+<text top="697" left="95" width="6" height="11" font="11">E</text>
+<text top="699" left="194" width="9" height="11" font="11">13</text>
+<text top="700" left="264" width="5" height="11" font="11">U0</text>
+<text top="702" left="332" width="4" height="11" font="11">6</text>
+<text top="704" left="63" width="59" height="12" font="4">ADVANCE</text>
+<text top="707" left="188" width="27" height="12" font="4">20000</text>
+<text top="708" left="254" width="16" height="12" font="4">800!</text>
+<text top="709" left="324" width="16" height="12" font="4">200!</text>
+<text top="711" left="392" width="16" height="12" font="4">600</text>
+<text top="718" left="90" width="22" height="12" font="4">COP</text>
+<text top="720" left="198" width="5" height="12" font="4">0</text>
+<text top="721" left="264" width="5" height="12" font="4">ot</text>
+<text top="722" left="323" width="13" height="12" font="4">05</text>
+<text top="723" left="390" width="10" height="12" font="4">0</text>
+<text top="725" left="61" width="356" height="5" font="3"> </text>
+<text top="695" left="412" width="4" height="47" font="12"> </text>
+<text top="704" left="141" width="3" height="33" font="13"> </text>
+<text top="705" left="207" width="2" height="33" font="13"> </text>
+<text top="706" left="271" width="3" height="33" font="13"> </text>
+<text top="708" left="342" width="3" height="33" font="13"> </text>
+<text top="755" left="198" width="462" height="19" font="4">***This is a computer generated payslip - Need not require signature.</text>
+<text top="845" left="604" width="39" height="27" font="14">A.</text>
+<text top="880" left="568" width="35" height="15" font="5">Co</text>
+</page>
+</pdf2xml>
